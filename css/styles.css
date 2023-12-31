@@ -95,6 +95,10 @@ letter-spacing: 0.02em;
 .address {
     font-style: normal;
 }
+.address-list {
+    padding-top: 24px;
+    padding-bottom: 24px;
+} 
 
 .address-item-link {
 color:#434455;
@@ -194,7 +198,7 @@ background: #404BBF;
   }
 
   .features-item {
-    width: calc((100% - 3 * 24) / 4);
+    width: calc((100% - 3 * 24px) / 4);
   }
 
 .features-item-title {
